@@ -9,4 +9,4 @@ postcss:
   cache: false
 
 url: 'https://orlandusns.github.io'
-baseurl: '/bakery_template/'
+baseurl: '/bakery_template'
